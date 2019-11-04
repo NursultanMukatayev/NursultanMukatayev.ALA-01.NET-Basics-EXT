@@ -1,0 +1,5 @@
+C:\Users\nursm\source\repos\NunitTestTask1_5\Basic_coding_Task_6\bin\Debug\Basic_coding_Task_6.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\Basic_coding_Task_6\bin\Debug\Basic_coding_Task_6.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\Basic_coding_Task_6\obj\Debug\Basic_coding_Task_6.csprojAssemblyReference.cache
+C:\Users\nursm\source\repos\NunitTestTask1_5\Basic_coding_Task_6\obj\Debug\Basic_coding_Task_6.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\Basic_coding_Task_6\obj\Debug\Basic_coding_Task_6.pdb

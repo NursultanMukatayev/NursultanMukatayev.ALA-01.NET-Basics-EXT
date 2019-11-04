@@ -1,0 +1,14 @@
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\NunitTestTask1_5.exe.config
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\NunitTestTask1_5.exe
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\NunitTestTask1_5.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\nunit.framework.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\TestingClass.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\BasicCoding_Task_1.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\TestingClass.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\nunit.framework.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\nunit.framework.xml
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\bin\Debug\BasicCoding_Task_1.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\obj\Debug\NunitTestTask1_5.csprojAssemblyReference.cache
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\obj\Debug\NunitTestTask1_5.csproj.CopyComplete
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\obj\Debug\NunitTestTask1_5.exe
+C:\Users\nursm\source\repos\NunitTestTask1_5\NunitTestTask1_5\obj\Debug\NunitTestTask1_5.pdb

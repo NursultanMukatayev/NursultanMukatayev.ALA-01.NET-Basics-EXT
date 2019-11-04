@@ -1,0 +1,9 @@
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\bin\Debug\BasicCoding_Task_1.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\bin\Debug\BasicCoding_Task_1.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\bin\Debug\nunit.framework.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\bin\Debug\nunit.framework.pdb
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\bin\Debug\nunit.framework.xml
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\obj\Debug\Basic_coding_Task_1.csprojAssemblyReference.cache
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\obj\Debug\Basic_coding_Task_1.csproj.CopyComplete
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\obj\Debug\BasicCoding_Task_1.dll
+C:\Users\nursm\source\repos\NunitTestTask1_5\BasicCoding_Task_1\obj\Debug\BasicCoding_Task_1.pdb

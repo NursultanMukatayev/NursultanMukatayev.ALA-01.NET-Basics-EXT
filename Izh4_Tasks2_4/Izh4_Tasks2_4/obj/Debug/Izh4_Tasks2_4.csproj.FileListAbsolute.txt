@@ -1,0 +1,9 @@
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\bin\Debug\Izh4_Tasks2_4.exe.config
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\bin\Debug\Izh4_Tasks2_4.exe
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\bin\Debug\Izh4_Tasks2_4.pdb
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\bin\Debug\TasksLibrary.dll
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\bin\Debug\TasksLibrary.pdb
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\obj\Debug\Izh4_Tasks2_4.csprojAssemblyReference.cache
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\obj\Debug\Izh4_Tasks2_4.csproj.CopyComplete
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\obj\Debug\Izh4_Tasks2_4.exe
+C:\Users\nursm\source\repos\Izh4_Tasks2_4\Izh4_Tasks2_4\obj\Debug\Izh4_Tasks2_4.pdb
